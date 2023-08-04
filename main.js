@@ -8,7 +8,7 @@ document.querySelector('#app').innerHTML = `
       <input type="text" id="name" data-testid="name" placeholder="Name"/>
       <input type="text" id="mobile" data-testid="mobile" placeholder="Mobile Number"/>
       <input type="text" id="email" data-testid="email" placeholder="Email"/>
-      <button type="submit">Submit</button>
+      <button type="submit">Add Contact</button>
     </form>
   </div>
 
